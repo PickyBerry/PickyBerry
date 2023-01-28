@@ -1,6 +1,7 @@
 <img src="https://user-images.githubusercontent.com/92033502/214927757-b9924b03-4bca-4042-833b-97950c7ae8e4.png">
 <h3 align="center">A determined junior Android developer 🍀</h3>
-- 🔭 I’m currently working on [ColorPalettes app](https://github.com/PickyBerry/ColourPalettesApp)
+
+- 🔭 I’m currently working on [LucidEye App](https://github.com/PickyBerry/Lucid-Eye-App)
 
 - 🌱 I’m currently learning **ROOM databases**
 
