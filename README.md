@@ -1,4 +1,5 @@
-<img src="https://user-images.githubusercontent.com/92033502/214927757-b9924b03-4bca-4042-833b-97950c7ae8e4.png">
+![top](https://user-images.githubusercontent.com/92033502/215275002-d6cfe906-85c9-4db8-8861-6a08b468eb4c.png)
+
 <h3 align="center">A determined junior Android developer 🍀</h3>
 
 - 🔭 I’m currently working on [LucidEye App](https://github.com/PickyBerry/Lucid-Eye-App)
